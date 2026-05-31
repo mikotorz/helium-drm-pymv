@@ -6,7 +6,7 @@
 > your system.
 
 A single-file Python script that fixes DRM playback in the
-[Helium browser](https://helium.is/) by copying `WidevineCdm` from an
+[Helium browser](https://helium.computer/) by copying `WidevineCdm` from an
 already-installed Chromium browser (Chrome, Edge, or Brave) into Helium's
 version directory.
 
@@ -64,7 +64,7 @@ After the script finishes, **restart Helium** for the change to take effect.
 Install Google Chrome, Microsoft Edge, or Brave, then run the script again.
 
 ### "Helium browser not found"
-Install Helium from [https://helium.is/](https://helium.is/) and launch it at
+Install Helium from [https://helium.computer/](https://helium.computer/) and launch it at
 least once (so it creates its versioned application directory).
 
 ### "Permission denied"
